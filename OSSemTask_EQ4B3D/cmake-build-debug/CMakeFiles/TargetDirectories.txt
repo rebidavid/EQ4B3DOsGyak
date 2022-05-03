@@ -1,0 +1,3 @@
+C:/Users/rebuu/Desktop/Suli/Operációs rendszerek/OSSemTask_EQ4B3D/cmake-build-debug/CMakeFiles/OSSemTask_EQ4B3D.dir
+C:/Users/rebuu/Desktop/Suli/Operációs rendszerek/OSSemTask_EQ4B3D/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rebuu/Desktop/Suli/Operációs rendszerek/OSSemTask_EQ4B3D/cmake-build-debug/CMakeFiles/rebuild_cache.dir
